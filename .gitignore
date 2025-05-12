@@ -1,0 +1,14 @@
+.DS_Store
+/Library/
+/Temp/
+/Logs/
+/Build/
+/UserSettings/
+/Packages/packages-lock.json
+/.vs/
+/.vscode/
+/obj/
+/.vsconfig
+/*.csproj
+/*.sln
+/*.apk
