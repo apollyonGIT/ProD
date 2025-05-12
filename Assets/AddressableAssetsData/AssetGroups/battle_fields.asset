@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: battle_fields
+  m_EditorClassIdentifier: 
+  m_GroupName: battle_fields
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bffb64f6da39fd34491468f008af184c
+  m_SerializeEntries:
+  - m_GUID: 3b49b1d9a85425b4b9396c5303b69709
+    m_Address: lands
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 53ed915b564fd5a46883ef0e81ee035a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 08f2438a9ff967443804ec8ec5abad63, type: 2}
+    - {fileID: 11400000, guid: 4977ee06c6d218b4fb4c1010a5a2683f, type: 2}
