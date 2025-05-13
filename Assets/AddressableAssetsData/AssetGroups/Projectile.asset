@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Projectile
+  m_EditorClassIdentifier: 
+  m_GroupName: Projectile
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f7fce0d32bc9a1540b3bb80f99eab767
+  m_SerializeEntries:
+  - m_GUID: f13327624f035e242bee370170173b4e
+    m_Address: dpj_1101_arrow_arrow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84fac4d31e012144c892cb3b6381c95a
+    m_Address: dpj_1201_bullet_bullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2526ee7ebf97ead4e852ae45de2054fb
+    m_Address: dpj_1203_bullet_rock
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e4494f1dfd7cd147b2947239534ee28
+    m_Address: dpj_1202_bullet_shotgun_iron_sand
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25b8a900084ed494f91ccb8ccb997242
+    m_Address: dpj_1205_rocket_bomb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b4cb7e864091024aa1c1304a43ef694
+    m_Address: dpj_1206_homemade_rocket_bomb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62b2f8a3dff0a0049855cede593a4270
+    m_Address: mpj_2101_arrow_caveman_spear
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81f3a7b708929a84f85af2beddfc44d9
+    m_Address: dpj_1204_bullet_volley_gun_bullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e32ac97b93c1ca04391a2614ba8d0cd7
+    m_Address: mpj_2102_bullet_caveman_stone
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebc004de42198f845aaa3ab4f6f1995f
+    m_Address: mpj_2103_bullet_caveman_molotov
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69f655ac56f00c743897ee6f1e0ada29
+    m_Address: mpj_2104_arrow_caveman_greek_fire_javelin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eda3ec62caea5c64dbbfa735b03ac480
+    m_Address: dpj_1007_needle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 82788fcdea99bc1479d21577250b5840, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 61f240a92e58fe64195e758a06d59eae, type: 2}
+    - {fileID: 11400000, guid: 2e01d8a672f06d24fbbec4d407c7901e, type: 2}

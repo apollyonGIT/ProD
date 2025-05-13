@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Enemys
+  m_EditorClassIdentifier: 
+  m_GroupName: Enemys
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 38c6072de38877a43950d32151f17171
+  m_SerializeEntries:
+  - m_GUID: b90a86eab59db8343bfa9a35e4ae0f86
+    m_Address: monster_201103_dungeon_springtail
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e705075c51d9ea84f9d4288f5db12ac1
+    m_Address: monster_201105_dungeon_springtail_rider
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 826c943a5d89a6b42933078a12272868
+    m_Address: monster_201104_dungeon_caveman
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68f04f7ee4b95ff44899b69f85af2628
+    m_Address: monster_201101_dungeon_bat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47880ef49054a6049aa50815b5fde2b9
+    m_Address: monster_201102_dungeon_beatle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a678a0cd62b977742be7072f6e48ff3d
+    m_Address: monster_201106_dungeon_bat_rider
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86cc0c9bb9f3ce9419b54c2a232c7783
+    m_Address: monster_201107_dungeon_caveman_wanderer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcad35c0446e2fe44a88fd6f236d8c78
+    m_Address: monster_201108_dungeon_caveman_arsonist
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2a8dc944b6828a44ba0a594653344f3
+    m_Address: monster_201109_dungeon_caveman_mob
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 82788fcdea99bc1479d21577250b5840, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 03a82b43737c52047906700e0e96c5d6, type: 2}
+    - {fileID: 11400000, guid: 6af79f6ca35226c4c8d32ce66298c03d, type: 2}

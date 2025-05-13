@@ -1,0 +1,9 @@
+device_buckler.png
+size:128,128
+filter:Linear,Linear
+pma:true
+buckler
+bounds:2,2,20,52
+light
+bounds:2,56,52,62
+offsets:1,1,54,64
